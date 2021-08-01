@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My test site
 
 You can use the [editor on GitHub](https://github.com/CL2007/myTestRepo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
